@@ -32,6 +32,10 @@ h6{
     margin-bottom: 2.5%;
 }
 
+.top-bar{
+    padding-top: 15px;
+}
+
 .navbar {
     margin: 0;
     text-align: center;
